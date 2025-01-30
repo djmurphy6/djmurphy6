@@ -1,10 +1,11 @@
-## Hello, I'm Dylan!
+# Hello, I'm Dylan!
 I'm a third year computer science student with a minor in sustainable business at the University of Oregon. I am outgoing and curious, and think fast on my feet when faced with problems. I am familiar with C, Python, Java, and have experience with C++, HTML, & UNIX. I have completed coursework in discrete math, statistics, software engineering, data science, sustainable business, and climatology.
 
 I am a leader for UO's [Outdoor Pursuits Program](https://opp.uoregon.edu) (OPP), leading peers on multi-night trips as well as teaching technical skills such as vertical rescue. I am pursuing a [leadership certification](https://opp.uoregon.edu/leadership-training/) from the OPP indicating that I am experienced in safetly and effectively leading and teaching people in outdoor environments. 
 
-## Check out my [personal website](https://pages.uoregon.edu/dmurphy6/site/), modeled after an iPod from the early 2000s!
+### Check out my [personal website](https://pages.uoregon.edu/dmurphy6/site/), modeled after an iPod from the early 2000s!
 
+## Interests & Hobbies
 ### Interests:
 + Outdoor products
 + Product development
