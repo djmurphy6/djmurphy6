@@ -22,7 +22,7 @@ I am a leader for UO's [Outdoor Pursuits Program](https://opp.uoregon.edu) (OPP)
 + Sailing
 + Kitesurfing
 
-### Working on
+### Working on + interested in
 + Full stack development
 + Graphic Design
 + Creative expression
