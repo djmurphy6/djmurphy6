@@ -3,7 +3,7 @@ I'm a third year computer science student with a minor in sustainable business a
 
 I am a leader for UO's [Outdoor Pursuits Program](https://opp.uoregon.edu) (OPP), leading peers on multi-night trips as well as teaching technical skills such as vertical rescue. I am pursuing a [leadership certification](https://opp.uoregon.edu/leadership-training/) from the OPP indicating that I am experienced in safetly and effectively leading and teaching people in outdoor environments. 
 
-### Check out my [personal website](https://pages.uoregon.edu/dmurphy6/site/), modeled after an iPod from the early 2000s!
+### Check out my [personal website](dylanmurphy.xyz), modeled after an iPod from the early 2000s!
 
 ## Interests & Hobbies
 ### Interests:
