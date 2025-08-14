@@ -12,6 +12,7 @@ I am a leader for UO's [Outdoor Pursuits Program](https://opp.uoregon.edu) (OPP)
 + Music
 + Sewing
 + Repair
++ Older Apple Products
   
 ### Outdoor Pursuits:
 + Skiing
@@ -21,7 +22,8 @@ I am a leader for UO's [Outdoor Pursuits Program](https://opp.uoregon.edu) (OPP)
 + Sailing
 + Kitesurfing
 
-### What I want to get better at
+### Working on
++ Full stack development
 + Graphic Design
 + Creative expression
 
